@@ -4,7 +4,9 @@
 **Dm2333/Dm2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![](https://komarev.com/ghpvc/?username=Dm2333)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Dm2333">
+</a>
 
 
 - 🔭 I’m currently working on ...
